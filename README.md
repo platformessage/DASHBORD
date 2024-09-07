@@ -13,8 +13,8 @@
 * **[Add other relevant skills here, e.g., Python, TensorFlow, Machine Learning]**
 
 ### Projects
-* **[List of your AI projects, with brief descriptions]**
-  * **Project 1:** [Description]
+* **[AI projects, with brief descriptions]**
+  * **Project 1:** [CHIPBOARD]
   * **Project 2:** [Description]
 
 ### Connect with Me
