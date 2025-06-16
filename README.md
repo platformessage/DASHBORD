@@ -3,9 +3,9 @@
 
 ### About Me
 **Name:** Edo Erpani
-**Website:** chipboard.link
+**Website:** eunoia.com
 **Email:** etalasevisuals@gmail.com
-**Phone:** +62 822 46205262
+**Phone:** +62 8750733608
 **Job Handle:** AI Builder
 
 ### Skills and Expertise
@@ -14,8 +14,8 @@
 
 ### Projects
 * **[AI projects, with brief descriptions]**
-  * **Project 1:** [CHIPBOARD]
-  * **Project 2:** [Description]
+  * **Project 1:** [Eunoia]
+  * **Project 2:** [Ai EunoiaQ]
 
 ### Connect with Me
 For more information or collaboration opportunities, please visit my website or contact me directly.
